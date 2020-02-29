@@ -2,3 +2,5 @@ In University of Wisconsin - Madison, there is a boy named David who double majo
 David loves programming but math is a great pain to him. Now David is struggling on his abstract algebra courses. Let's help him.
 Here is a problem in David's homework: "Prove the Lagrange's Theorem." David says that he is going to pay 100000 dollars to anyone who helps him solve that.
 
+To clarify the statement to be proved: Lagrange's theorem, in the mathematics of group theory, states that for any finite group G, the order (number of elements) of every subgroup H of G divides the order of G. The theorem is named after Joseph-Louis Lagrange.
+
