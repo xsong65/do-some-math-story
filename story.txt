@@ -1,6 +1,14 @@
-In University of Wisconsin - Madison, there is a boy named David who double majors in computer science and mathematics.
-David loves programming but math is a great pain to him. Now David is struggling on his abstract algebra courses. Let's help him.
-Here is a problem in David's homework: "Prove the Lagrange's Theorem." David says that he is going to pay 100000 dollars to anyone who helps him solve that.
+In University of Wisconsin - Madison, there is a boy named David who double majors in computer science and 
+mathematics. David loves programming but math is a great pain to him. Now David is struggling on his 
+abstract algebra courses. Let's help him. Here is a problem in David's homework: "Prove the Lagrange's 
+Theorem." David says that he is going to pay 100000 dollars to anyone who helps him solve that.
 
-To clarify the statement to be proved: Lagrange's theorem, in the mathematics of group theory, states that for any finite group G, the order (number of elements) of every subgroup H of G divides the order of G. The theorem is named after Joseph-Louis Lagrange.
+To clarify the statement to be proved: Lagrange's theorem, in the mathematics of group theory, states that 
+for any finite group G, the order (number of elements) of every subgroup H of G divides the order of G. 
+The theorem is named after Joseph-Louis Lagrange.
 
+Are we just helping one of our X team members solve their homework, we wonder.  Oh well, it doesn't 
+matter, X teams gotta help each other out! The idea is that the translates of the subgroup H partition G. 
+Using some set terminology we have learned in CS400, this means that the set of cosets (either left or 
+right) of H in G form a disjoint collection of sets, whose union is all of G. Moreover, all of these 
+translates have the same size, which is the size of the subgroup H.
