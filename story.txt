@@ -12,3 +12,10 @@ matter, X teams gotta help each other out! The idea is that the translates of th
 Using some set terminology we have learned in CS400, this means that the set of cosets (either left or 
 right) of H in G form a disjoint collection of sets, whose union is all of G. Moreover, all of these 
 translates have the same size, which is the size of the subgroup H.
+
+In an effort to help his X team member complete his homework, even though we 
+are unsure what the problem even means, we see the key word 'Lagrange'.
+We work off of that, remembering our calc three we attempt to take partial
+derivatives, multiply them by lambda, and set them equal to the partials
+that come from the constraint. But wait! how does one take a derivative of 
+a set. The X team member realizes he got lost and cant help.
