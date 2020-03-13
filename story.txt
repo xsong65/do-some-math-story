@@ -19,3 +19,8 @@ We work off of that, remembering our calc three we attempt to take partial
 derivatives, multiply them by lambda, and set them equal to the partials
 that come from the constraint. But wait! how does one take a derivative of 
 a set. The X team member realizes he got lost and cant help.
+
+Now, in our Xteam, it seems that David received the help from all of the team members. Therefore, everybody
+here are supposed to get 100000 dollars from David! But wait a second! 100000 dollars? David said he was just 
+kidding! Instead, he was really happy to give everyone a big warm hug to show his appreciation! In Xteam, we are all
+here to help each other!
